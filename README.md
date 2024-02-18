@@ -10,8 +10,7 @@
 💬 Open to collaboration on frontend development projects
 
 
-📫 Connect with me on @subashshankar0304@gmail.com
-
+📫 Connect with me on https://linktr.ee/subash_S
 
 😄 Pronouns: He/Him
 
