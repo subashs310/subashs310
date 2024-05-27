@@ -1,10 +1,8 @@
-## Hi there 👋 It's me subash
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://subashs310.github.io/Another-Portfolio-/)                                                 
-- 🌱 I’m currently learning Python FullStack Developer
-- 👯 I’m looking to collaborate on developing
-- 💬 Ask me about Tech
+## Hi there 👋 It's me subash <br/>
+- 🔭 Here's my [portfolio](https://subashs310.github.io/Another-Portfolio-/)     <br/>                                            
+- 🌱 I’m currently learning Python FullStack Developer <br/>
+- 👯 I’m looking to collaborate on developing <br/>
+- 💬 Ask me about Tech  <br/>
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subash-s-8ba01a258/)
 
